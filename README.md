@@ -1,6 +1,6 @@
 # rm_wiki
 
-A new Flutter project.
+A Mobile app wiki of Rick and Morty serie.
 
 ## Getting Started
 
