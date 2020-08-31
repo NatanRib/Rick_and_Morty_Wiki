@@ -1,6 +1,6 @@
 # rm_wiki
 
-A Mobile app wiki of Rick and Morty serie.
+A Mobile app with Rick and Morty character and informations consuming a public API.
 
 ## Getting Started
 
